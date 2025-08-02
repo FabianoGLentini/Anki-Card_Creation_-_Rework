@@ -56,13 +56,13 @@ This assistant runs directly within [ChatGPT's custom GPT framework](https://cha
 
 ## 📂 Repository Contents
 
-| File                                | Description                                        |
-| ----------------------------------- | -------------------------------------------------- |
-| `assistant_instructions.md`         | Full version 2.4 prompt logic and formatting rules |
-| `example_conversations.md`          | Sample use cases with real input/output            |
-| `anki_templates/front_example.html` | Sample HTML output for the front of a flashcard    |
-| `anki_templates/back_example.html`  | Sample HTML output for the back of a flashcard     |
-| `CHANGELOG.md`                      | Version history and update notes                   |
+| File                        | Description                                        |
+| --------------------------- | -------------------------------------------------- |
+| `assistant_instructions.md` | Full version 2.4 prompt logic and formatting rules |
+| `example_conversations.md`  | Sample use cases with real input/output            |
+| `anki_templates/front.html` | Sample HTML output for the front of a flashcard    |
+| `anki_templates/back.html`  | Sample HTML output for the back of a flashcard     |
+| `CHANGELOG.md`              | Version history and update notes                   |
 
 ---
 
