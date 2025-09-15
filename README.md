@@ -40,7 +40,7 @@ This assistant runs directly within [ChatGPT's custom GPT framework](https://cha
 ### Usage Steps
 
 1. **Open the GPT**
-   → [Launch Assistant]([https://chatgpt.com/g/g-677be93310d0819197dd79ee10475ce5-anki-card-creation-rework-v-2-4](https://chatgpt.com/g/g-68c20ab2a40c819191d627aacf2f1749-anki-card-creation-rework-v-2-4)])
+   → [Launch Assistant](https://chatgpt.com/g/g-68c20ab2a40c819191d627aacf2f1749-anki-card-creation-rework-v-2-4)
 
 2. **Provide your input**
    → Summaries, textbook chapters, lecture slides, questions, or even flashcard screenshots. Optionally include:
